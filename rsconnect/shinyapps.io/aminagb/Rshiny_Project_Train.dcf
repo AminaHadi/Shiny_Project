@@ -1,0 +1,12 @@
+name: Rshiny_Project_Train
+title: Rshiny_Project_Train
+username:
+account: aminagb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1838499
+bundleId: 2815791
+url: https://aminagb.shinyapps.io/Rshiny_Project_Train/
+when: 1582226559.76065
+asMultiple: FALSE
+asStatic: FALSE
